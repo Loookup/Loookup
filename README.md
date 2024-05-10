@@ -12,7 +12,7 @@
 
 #### Bachelor's Degree : Mathematics & Aerospace Engineering in Pusan National Univ.
 - Publication : Simulation of Vision-based Cooperative Space Relative Navigation for On-Orbit Servicing, The Korean Society for Aeronautical & Space Sciences(KSAS) spring conference 2023, Chulyong Lee
-- Student Researcher in FDL (Flight Dynamics Labs.) [2022.07~2023.04]
+- Student Researcher in FDL (Flight Dynamics Lab) [2022.07~2023.04]
 #### Master's Degree : Intelligence Robotics in SungKyunKwan Univ. [ Dropped OUT ! ]
 
  <br/>
