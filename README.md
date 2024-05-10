@@ -36,7 +36,7 @@ Product : 오늘만 <img width="40" src="https://github.com/Loookup/Loookup/blob
 <br/>
 
 ### 📊 Data Analysis
-- DA tools : <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=Numpy&logoColor=white"> <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white"> <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white">
+- DA tools : <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=Numpy&logoColor=white"> <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikitlearn&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white">
 
  <br/>
  <br/>
