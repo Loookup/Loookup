@@ -2,24 +2,8 @@
 
 ### Hi there 👋
 
-<!--
-**Loookup/Loookup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ####  :wave: Welcome LOOOKUP github profile !
 
- <br/>
  <br/>
  
 ## 🎓 MAJOR
@@ -27,8 +11,6 @@ Here are some ideas to get you started:
 - Bachelor's Degree : Mathematics & Aerospace Engineering in Pusan National Univ.
 - Master's Degree : Intelligence Robotics in SungKyunKwan Univ. [ Dropped OUT ! ]
 
-  
- <br/>
  <br/>
 
  ## 💡 TECH EXPERIENCE
