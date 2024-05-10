@@ -48,6 +48,9 @@ Here are some ideas to get you started:
 
 <br/>
 
+## Data Analysis
+- DA : <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=Numpy&logoColor=white"> <img src="https://img.shields.io/badge/Scikit-learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+
 [![Loookup's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loookup)](https://github.com/Loookup/github-readme-stats)
 
 [![Loookup's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loookup)](https://github.com/Loookup/github-readme-stats)
