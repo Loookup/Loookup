@@ -19,6 +19,11 @@ Here are some ideas to get you started:
 
 ####  :wave: Welcome my github profile !
 
+## MAJOR
+
+- Bachalor's Degree : Mathematics & Aerospace Engineering
+- Master's Degree : Intelligence Robotics [ Dropped OUT ! ]
+
   
  <br/>
  <br/>
