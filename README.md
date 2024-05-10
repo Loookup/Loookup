@@ -3,7 +3,7 @@
 ##  :wave: Welcome LOOOKUP github profile !
  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLoookup&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/Loookup)
-[![Gmail Badge](https://img.shields.io/badge/chulyong5947@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:chulyong5947@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat#000000logoColor=white)](www.linkedin.com/in/chulyong-lee-4781a7223) [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-000000?style=flat&logo=tistory&logoColor=white)](https://loookup.tistory.com/)
+[![Gmail Badge](https://img.shields.io/badge/chulyong5947@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:chulyong5947@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logoColor=white)](www.linkedin.com/in/chulyong-lee-4781a7223) [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-000000?style=flat&logo=tistory&logoColor=white)](https://loookup.tistory.com/)
 ### Entrepreneur (Founder & CEO of LOOOKUP)
 Product : 오늘만 <img width="40" src="https://github.com/Loookup/Loookup/blob/main/%E1%84%8B%E1%85%A9%E1%84%82%E1%85%B3%E1%86%AF%E1%84%86%E1%85%A1%E1%86%AB_logo_ver1.1.png">
 
@@ -22,7 +22,7 @@ Product : 오늘만 <img width="40" src="https://github.com/Loookup/Loookup/blob
  ## 💡 TECH EXPERIENCE
  
 ### 🤖 Robotics
-- Computer Vision (SLAM & AR) : <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/MATLAB-R2023a?style=for-the-badge&logo=MATLAB&logoColor=white"> <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
+- Computer Vision (SLAM & AR) : <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/MATLAB-R2023a?style=for-the-badge&logo=MATLAB&logoColor=white"> <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
 - Target Device (H/W) : <img src="https://img.shields.io/badge/Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white"> <img src="https://img.shields.io/badge/realsense-0071C5?style=for-the-badge&logo=Intel&logoColor=white"> <img src="https://img.shields.io/badge/azure%20kinect-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white"> <img src="https://img.shields.io/badge/hololens-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white"> <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white">
  <br/>
 
