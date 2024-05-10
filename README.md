@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 ####  :wave: Welcome LOOOKUP github profile !
-### Entrepreneur
+### Current : Entrepreneur (Founder & CEO of LOOOKUP)
 
  <br/>
  
