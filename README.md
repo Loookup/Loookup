@@ -19,10 +19,13 @@ Here are some ideas to get you started:
 
 ####  :wave: Welcome my github profile !
 
+ <br/>
+ <br/>
+ 
 ## MAJOR
 
-- Bachalor's Degree : Mathematics & Aerospace Engineering
-- Master's Degree : Intelligence Robotics [ Dropped OUT ! ]
+- Bachelor's Degree : Mathematics & Aerospace Engineering in Pusan National Univ.
+- Master's Degree : Intelligence Robotics in SungKyunKwan Univ. [ Dropped OUT ! ]
 
   
  <br/>
