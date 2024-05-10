@@ -19,7 +19,7 @@ Product : 오늘만 <img width="40" src="https://github.com/Loookup/Loookup/blob
 
  <br/>
 
- ## 💡 TECH EXPERIENCE
+ ## 💡 Tech Experience
  
 ### 🤖 Robotics
 - Computer Vision (SLAM & AR) : <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/MATLAB-R2023a-blue?style=flat&logo=MATLAB&logoColor=white"> <img src="https://img.shields.io/badge/ROS-22314E?style=flat&logo=ROS&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white">
