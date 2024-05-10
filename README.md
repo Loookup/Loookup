@@ -8,7 +8,7 @@
 
  <br/>
  
-## 🎓 MAJOR
+## 🎓 Education
 
 #### Bachelor's Degree : Mathematics & Aerospace Engineering in Pusan National Univ.
 - Publication : Simulation of Vision-based Cooperative Space Relative Navigation for On-Orbit Servicing, The Korean Society for Aeronautical & Space Sciences(KSAS) spring conference 2023, Chulyong Lee
