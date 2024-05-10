@@ -6,6 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/chulyong5947@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:chulyong5947@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat#000000logoColor=white)](www.linkedin.com/in/chulyong-lee-4781a7223) [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-000000?style=flat&logo=tistory&logoColor=white)](https://loookup.tistory.com/)
 ### Current : Entrepreneur (Founder & CEO of LOOOKUP)
 #### product : 오늘만
+<img src="https://github.com/Loookup/Loookup/blob/main/%E1%84%8B%E1%85%A9%E1%84%82%E1%85%B3%E1%86%AF%E1%84%86%E1%85%A1%E1%86%AB_logo_ver1.1.png">
 
  <br/>
  
