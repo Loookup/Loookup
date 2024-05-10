@@ -39,14 +39,14 @@
  <br/>
  <br/>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loookup&layout=donut)](https://github.com/Loookup/github-readme-stats)  [![Loookup's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loookup)](https://github.com/Loookup/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loookup&layout=donut)](https://github.com/Loookup/github-readme-stats)
+
+ <br/>
+ 
+[![Loookup's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loookup)](https://github.com/Loookup/github-readme-stats)
+
+
  <br/>
 
- 
- <br/>
- 
-#### :pencil2: Study log
- 
-  <br/>
 
 </div>
