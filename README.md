@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-####  :wave: Welcome my github profile !
+####  :wave: Welcome LOOOKUP github profile !
 
  <br/>
  <br/>
