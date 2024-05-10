@@ -3,6 +3,7 @@
 ### Hi there 👋
 
 ####  :wave: Welcome LOOOKUP github profile !
+#### Entrepreneur
 
  <br/>
  
