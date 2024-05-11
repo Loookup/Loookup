@@ -1,6 +1,6 @@
 <div align="left">
  
-##  :wave: Welcome LOOOKUP github profile !
+##  :wave: Hello World ! Welcome LOOOKUP github !
  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLoookup&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/Loookup)
 [![Gmail Badge](https://img.shields.io/badge/chulyong5947@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:chulyong5947@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/chulyong-lee-4781a7223) [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-000000?style=flat&logo=tistory&logoColor=white)](https://loookup.tistory.com/)
