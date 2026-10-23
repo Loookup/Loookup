@@ -41,11 +41,11 @@
  <br/>
  
 <!-- Private stats setup: .github/README-stats.md. The workflow switches these image URLs after its first successful run. Never put tokens in image URLs. -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loookup&layout=donut)](https://github.com/Loookup/github-readme-stats)
+[![Top Langs](./profile/top-langs.svg)](https://github.com/Loookup/github-readme-stats)
 
  <br/>
  
-[![Loookup's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loookup)](https://github.com/Loookup/github-readme-stats)
+[![Loookup's GitHub stats](./profile/stats.svg)](https://github.com/Loookup/github-readme-stats)
 
 
  <br/>
