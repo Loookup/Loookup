@@ -40,6 +40,7 @@
  <br/>
  <br/>
  
+<!-- Private stats setup: .github/README-stats.md. The workflow switches these image URLs after its first successful run. Never put tokens in image URLs. -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loookup&layout=donut)](https://github.com/Loookup/github-readme-stats)
 
  <br/>

@@ -1,0 +1,5 @@
+# Credentials must be stored in GitHub Actions Secrets, never in this repository.
+.env
+.env.*
+!.env.example
+.private-stats/
