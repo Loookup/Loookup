@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Chulyong Lee&#39;s GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 8, Total Commits  (last year) : 3659, Total PRs: 128, Total Issues: 0, Contributed to (last year): 3</desc>
+        <desc id="descId">Total Stars Earned: 8, Total Commits  (last year) : 3670, Total PRs: 128, Total Issues: 0, Contributed to (last year): 3</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 139.72477849013129;
+        stroke-dashoffset: 139.7247290720474;
       }
     }
   
